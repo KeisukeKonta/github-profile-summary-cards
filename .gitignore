@@ -112,7 +112,7 @@ out
 .pnp.*
 
 # Ignore output
-profile-summary-card-output/
+# profile-summary-card-output/
 
 # ctag
 tags
