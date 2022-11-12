@@ -29,6 +29,7 @@
             ]
         }
     ],
+    "outputDirectory": "lib",
     "redirects": [
         {
             "source": "/",
